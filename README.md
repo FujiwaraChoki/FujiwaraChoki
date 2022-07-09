@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FujiwaraChoki
 - 👀 I’m interested in coding and the gym
 - 🌱 I’m currently learning PHP, HTML and CSS
-- 📫 How to reach me: Discord: Adonis#
+- 📫 How to reach me: samihindi6@icloud.com
 
 <!---
 FujiwaraChoki/FujiwaraChoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

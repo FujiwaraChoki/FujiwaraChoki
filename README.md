@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @FujiwaraChoki
-- 👀 I’m interested in coding and the gym
-- 🌱 I’m currently learning <b>Python</b>, <b>JavaScript</b>, <b>Rust</b>, <b>C++</b> and <b>Assembly</b>
-- 📫 How to reach me: sami@samihindi.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FujiwaraChoki)](https://github.com/anuraghazra/github-readme-stats)

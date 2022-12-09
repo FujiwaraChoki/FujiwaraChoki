@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<br/>  
+<br/>
 
 
 ## My Skill Set  
@@ -119,3 +119,5 @@
                 />
             </a></div>
 <br />
+
+![FujiwaraChoki's Contributions](https://github.com/FujiwaraChoki/FujiwaraChoki/blob/output/github-contribution-grid-snake2.svg)

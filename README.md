@@ -14,6 +14,10 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+  
+- 📫 How to reach me: sami@samihindi.com
+
+- 🌐 Website: [samihindi.com](https://samihindi.com)
 
 <br/>
 

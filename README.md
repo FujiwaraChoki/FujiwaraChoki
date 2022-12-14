@@ -78,7 +78,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
 
 
 ## Connect with me  
@@ -111,7 +111,12 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=FujiwaraChoki&&style=flat-square" align="center" />
 </div>  
-  
+
+<br />
+
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraChoki&layout=compact)
+</div>
 
 <br/>  
 

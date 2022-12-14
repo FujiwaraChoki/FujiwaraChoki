@@ -115,7 +115,7 @@
 <br />
 
 <div align="center">
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@FujiwaraChoki" frameborder="0"></iframe>
+[![Most used languages]("https://ionicabizau.github.io/github-profile-languages/api.html?@FujiwaraChoki)]
 </div>
 
 <br/>  

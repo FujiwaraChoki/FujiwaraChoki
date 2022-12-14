@@ -115,7 +115,7 @@
 <br />
 
 <div align="center">
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraChoki)](https://github.com/FujiwaraChoki/)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraChoki&hide=css,html&theme=tokyonight" />
 </div>
 
 <br/>  

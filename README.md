@@ -115,7 +115,7 @@
 <br />
 
 <div align="center">
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraChoki)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraChoki)](https://github.com/FujiwaraChoki/)
 </div>
 
 <br/>  

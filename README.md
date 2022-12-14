@@ -106,16 +106,14 @@
 
 <br/>
 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraChoki&hide=css,html&theme=tokyonight" />
+</div>
+
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=FujiwaraChoki&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraChoki&hide=css,html&theme=tokyonight" />
 </div>
 
 <br/>  

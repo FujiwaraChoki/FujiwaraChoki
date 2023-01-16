@@ -17,7 +17,7 @@
   
 - 📫 How to reach me: sami@samihindi.com
 
-- 🌐 Website: [samihindi.com](https://samihindi.com)
+- 🌐 Website: <a href="https://samihindi.com">samihindi.com</a>
 
 <br/>
 

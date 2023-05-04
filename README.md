@@ -6,7 +6,7 @@
 ### <div align="center">Full-Stack Developer</div>  
   
 
-- 🌱 I’m currently learning **C++**, **C#** and **Python**  
+- 🌱 I’m currently learning **C++**, **C#** and **Rust**
   
 
 - ❓ Ask me about anything related to **Python**, **JavaScript**, **Next.js** and **Git** 

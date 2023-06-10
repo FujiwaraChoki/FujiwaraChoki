@@ -6,10 +6,10 @@
 ### <div align="center">Full-Stack Developer</div>  
   
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **E-Commerce** and **C++**
   
 
-- ❓ Ask me about anything related to **Python**, **JavaScript**, **Next.js** and **Git** 
+- ❓ Ask me about anything related to **Shopify**, **Python**, **JavaScript**, **Next.js** and **Git** 
   
 
 - ⚡ Fun fact: I use tabs over spaces  

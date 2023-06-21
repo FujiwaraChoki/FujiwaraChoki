@@ -60,9 +60,6 @@
   <a href="https://github.com/FujiwaraChoki">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FujiwaraChoki&theme=transparent" />
   </a>
-  <a href="https://github.com/FujiwaraChoki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraChoki&hide=css,html&theme=transparent" />
-  </a>
 </p>
 <table><tr><td valign="top" width="33%">
 

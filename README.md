@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Sami.<br>
-        Currently learning to walk in C++ without falling on my bottom.<br>
+        Currently learning to walk in AI and ML without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <div align="center">

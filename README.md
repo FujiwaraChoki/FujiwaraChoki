@@ -123,6 +123,3 @@
 <br/>  
 
 </details>
-
-  [![Reggae & Calypso Thumbnail](http://img.youtube.com/vi/p8oQwM5iJWs/0.jpg)](http://www.youtube.com/watch?v=p8oQwM5iJWs "Reggae & Calypso")
-

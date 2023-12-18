@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Sami.<br>
+        I'm Choki<br>
         Currently learning to walk in AI and ML without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>

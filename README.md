@@ -7,7 +7,7 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
-    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me>E-Mail</a> to see how I can help you</p>
+    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me>E-Mail</a> to see how I can help you.</p><br />
     <div align="center">
 <a href="https://github.com/FujiwaraChoki" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

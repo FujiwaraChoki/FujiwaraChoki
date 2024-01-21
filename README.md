@@ -7,7 +7,7 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
-    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me>E-Mail</a> to see how I can help you.</p><br />
+    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
 </p>
 
 <div align="center">

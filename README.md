@@ -10,6 +10,8 @@
     <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
 </p>
 
+![](https://count.getloli.com/get/@fujiwarachoki)
+
 <div align="center">
 <a href="https://github.com/FujiwaraChoki" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

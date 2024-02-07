@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://count.getloli.com/get/@fujiwarachoki)" />
+  <img src="https://count.getloli.com/get/@fujiwarachoki" />
 </p>
 
 <div align="center">

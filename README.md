@@ -9,8 +9,9 @@
     <h2 align="center">Request a Service</h2>
     <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
 </p>
-
+<div align="center>
 ![](https://count.getloli.com/get/@fujiwarachoki)
+    </div>
 
 <div align="center">
 <a href="https://github.com/FujiwaraChoki" target="_blank">

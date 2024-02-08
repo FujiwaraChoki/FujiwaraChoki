@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@fujiwarachoki" />
+  <img src="https://count.getloli.com/get/@fujiwarachoki?theme=gelbooru" />
 </p>
 
 <div align="center">

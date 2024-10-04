@@ -1,6 +1,6 @@
 <img src="assets/palestine.jpg">
 
-Children are dying. <a href="https://www.ummarelief.org/ur-campaigns/funrkjxvwvv?form=FUNRKJXVWVV">Donate here</a>.
+Children are <b>being killed</b>. <a href="https://www.ummarelief.org/ur-campaigns/funrkjxvwvv?form=FUNRKJXVWVV">Donate here</a>.
 
 <details>
 

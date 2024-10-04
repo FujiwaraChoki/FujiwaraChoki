@@ -1,3 +1,5 @@
+<details>
+
 <h1 align="center">Hi, guys! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
@@ -52,7 +54,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/FujiwaraChoki)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/FujiwaraChoki)
 
-<details>
+
 <p align="center">
   <a href="https://github.com/FujiwaraChoki">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FujiwaraChoki&theme=transparent" />

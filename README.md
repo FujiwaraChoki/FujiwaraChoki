@@ -2,6 +2,8 @@
 
 Children are <b>being killed</b>. <a href="https://oneummah.org.uk/appeals/gaza-emergency-appeal/">Donate here</a>.
 
+> **Also, follow me on [X](https://x.com/DevBySami) :D**
+
 <details>
 
 <h1 align="center">Hi, guys! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>

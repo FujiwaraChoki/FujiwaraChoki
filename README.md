@@ -51,23 +51,3 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/FujiwaraChoki)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/FujiwaraChoki)
-
-
-<p align="center">
-  <a href="https://github.com/FujiwaraChoki">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FujiwaraChoki&theme=transparent" />
-  </a>
-  <a href="https://github.com/FujiwaraChoki">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FujiwaraChoki&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/FujiwaraChoki">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FujiwaraChoki&theme=transparent" />
-  </a>
-</p>
-<table><tr><td valign="top" width="33%">
-
-</td></tr></table>
-
-<br/>
-
-<br/>
